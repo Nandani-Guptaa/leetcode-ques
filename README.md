@@ -183,3 +183,23 @@ It represents the process of becoming a better problem solver — one problem at
 Building, learning, and debugging one problem at a time.
 
 **GitHub:** `kashudebugs`
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+<!---LeetCode Topics End-->
