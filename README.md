@@ -195,6 +195,7 @@ Building, learning, and debugging one problem at a time.
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -206,6 +207,7 @@ Building, learning, and debugging one problem at a time.
 | [0020-valid-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## String
@@ -214,15 +216,21 @@ Building, learning, and debugging one problem at a time.
 | [0020-valid-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
