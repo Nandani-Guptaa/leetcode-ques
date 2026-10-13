@@ -189,6 +189,7 @@ Building, learning, and debugging one problem at a time.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -200,6 +201,7 @@ Building, learning, and debugging one problem at a time.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -233,4 +235,8 @@ Building, learning, and debugging one problem at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0678-valid-parenthesis-string/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
