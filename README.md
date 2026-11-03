@@ -239,4 +239,20 @@ Building, learning, and debugging one problem at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
