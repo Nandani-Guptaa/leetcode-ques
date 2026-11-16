@@ -247,6 +247,7 @@ Building, learning, and debugging one problem at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0203-remove-linked-list-elements/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +256,8 @@ Building, learning, and debugging one problem at a time.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0141-linked-list-cycle/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Easy/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
