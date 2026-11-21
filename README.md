@@ -189,6 +189,7 @@ Building, learning, and debugging one problem at a time.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Dynamic Programming
@@ -238,6 +239,7 @@ Building, learning, and debugging one problem at a time.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Nandani-Guptaa/leetcode-ques/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
